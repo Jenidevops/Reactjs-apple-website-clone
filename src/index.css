@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+@keyframes blob {
+  0%, 100% {
+    transform: translate(0px, 0px) scale(1);
+    border-radius: 40% 60% 70% 30% / 60% 40% 30% 70%;
+  }
+  33% {
+    transform: translate(30px, -50px) scale(1.1);
+    border-radius: 30% 70% 40% 60% / 50% 60% 40% 50%;
+  }
+  66% {
+    transform: translate(-20px, 20px) scale(0.9);
+    border-radius: 50% 30% 60% 40% / 70% 30% 60% 40%;
+  }
+}
+
+.animate-blob {
+  animation: blob 7s infinite;
+}
+
+.animation-delay-2000 {
+  animation-delay: 2s;
+}
+
+@keyframes fluidGlow {
+  0%, 100% {
+    filter: drop-shadow(0 0 10px rgba(59, 130, 246, 0.7)) drop-shadow(0 0 20px rgba(234, 179, 8, 0.7));
+  }
+  50% {
+    filter: drop-shadow(0 0 20px rgba(59, 130, 246, 1)) drop-shadow(0 0 40px rgba(234, 179, 8, 1));
+  }
+}
+
+.animate-fluidGlow {
+  animation: fluidGlow 3s ease-in-out infinite;
+}
