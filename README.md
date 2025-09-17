@@ -1,4 +1,4 @@
-"⚡ Apple Website Clone | React + Vite + TailwindCSS | Modern & Responsive"
+
 
 <h1 align="center">🍏 Apple Website Clone</h1>
 
@@ -24,7 +24,7 @@ This project isn’t just a clone — it’s a showcase of **modern frontend eng
 ## 📸 Preview  
 
 <p align="center">
-  <img src="your-screenshot-url-here" width="800" alt="Apple Clone Preview" />
+  <img src="(https://jenidevops.github.io/Reactjs-apple-website-clone/)" width="800" alt="Apple Clone Preview" />
 </p>
 
 🎥 **Pro Tip:** Add a short GIF showing scrolling & hover effects to impress recruiters!
@@ -93,7 +93,7 @@ npm run dev
 👩‍💻 Jenifer Nirmal Raj
 🔗 🌐 Portfolio
  | 💼 LinkedIn
- | 🐦 Twitter
+
 
 <p align="center"> ⭐ If you enjoyed this project, don’t forget to give it a <b>star</b> and share it with others! ⭐ </p> ```
 # 5️⃣ Build for production
