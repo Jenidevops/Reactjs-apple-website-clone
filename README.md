@@ -19,17 +19,7 @@
 
 This project isn’t just a clone — it’s a showcase of **modern frontend engineering**, attention to detail, and best practices in **UI/UX**.  
 
----
 
-## 📸 Preview  
-
-<p align="center">
-  <img src="(https://jenidevops.github.io/Reactjs-apple-website-clone/)" width="800" alt="Apple Clone Preview" />
-</p>
-
-🎥 **Pro Tip:** Add a short GIF showing scrolling & hover effects to impress recruiters!
-
----
 
 ## 🔗 Live Demo  
 
